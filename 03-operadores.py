@@ -21,5 +21,3 @@ print(numero < 5 or numero == 10 )
 
 #Not pega o bool original e nega ele
 print(not( numero > 5))
-
-
